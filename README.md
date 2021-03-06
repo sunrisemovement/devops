@@ -1,4 +1,8 @@
-# Sunrise Movement devops
+# This code is unmaintained
+This repo is obsolete. A maintained version of this code lives at https://github.com/maximum-ethics/linode-caddy
+
+## Purpose
+
 Ansible role that will (eventually) automatically set up a web server for [Sunrise Movement](https://www.sunrisemovement.org/), currently using a virtual server on [Linode](https://www.linode.com/).
 
 ## Steps to set up server on Linode
